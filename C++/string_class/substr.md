@@ -20,3 +20,4 @@ int main() {
 ```
 std::string sub = str.substr(6);
 ```
+[문제: #39 폴리폴리펩타이드](https://www.doj.kr/ko/problems/39)

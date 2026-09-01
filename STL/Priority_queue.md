@@ -19,7 +19,7 @@ cout << pq.top(); // 1 출력
 struct Data{
     int x, y;
     bool operator<(const Data &Right)const{
-        return x < Right.x;
+        return x > Right.x;
     }
 };
 
